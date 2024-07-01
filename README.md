@@ -1,5 +1,5 @@
 # Admin panel usage instructions
-These instructions are for study admins who need to use the Hornsense Platform admin panel
+This documentation is for study admins who need to use the Hornsense Platform admin panel for a research study.
 
 ## How to set up new admin panel administrators
 Existing admins must create accounts for new admins and help with the initial multi-factor authentication set up. This process can be done via video call following these steps:
