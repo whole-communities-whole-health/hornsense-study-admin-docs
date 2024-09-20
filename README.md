@@ -4,6 +4,7 @@ panel to trach participants in a research study.
 
 ## Table of Contents
 1. [Login](#login)
+2. [Materials](#materials)
 2. [Usage](#usage)
 
 ### Login
