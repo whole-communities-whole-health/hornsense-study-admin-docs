@@ -7,13 +7,13 @@ to track participants in a research study.
 2. [Materials](#materials)
 3. [Usage](#usage)
 
-### Login
+### 1. Login
 - [Admin panel login issues](login/admin-panel-login-trouble.md)
 - [New admin user setup](login/new-admin-panel-user-setup.md)
 - [Troubleshooting](login/troubleshooting.md)
 
-### Materials
+### 2. Materials
 - [Item checkout and return](study-materials/item-checkout_and_return.md)
 
-### Usage
+### 3. Usage
 section in progress
