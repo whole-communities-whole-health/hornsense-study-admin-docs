@@ -1,15 +1,16 @@
-# Hornsense Platform admin panel usage instructions
-This documentation is for research study admins who use the Hornsense Platform admin 
-panel to trach participants in a research study.
+# Hornsense Platform Admin Panel Usage 
+This documentation is for research study admins who use the Hornsense admin panel 
+to track participants in a research study.
 
 ## Table of Contents
 1. [Login](#login)
 2. [Materials](#materials)
-2. [Usage](#usage)
+3. [Usage](#usage)
 
 ### Login
 - [Admin panel login issues](login/admin-panel-login-trouble.md)
 - [New admin user setup](login/new-admin-panel-user-setup.md)
+- [Troubleshooting](login/troubleshooting.md)
 
 ### Materials
 - [Item checkout and return](study-materials/item-checkout_and_return.md)
