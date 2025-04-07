@@ -4,9 +4,9 @@ to track participants in a research study. These instructions are not comprehens
 and instead only cover commonly confused parts of the platform.
 
 ## Table of Contents
-1. [Admin Panel Login](#login)
-2. [Admin Panel Materials](#materials)
-3. [Mobile App Settings](#3-mobile-app)
+1. [Admin Panel Login](#1-admin-panel-login)
+2. [Admin Panel Materials](#2-admin-panel-materials)
+3. [Mobile App Settings](#3-mobile-app-settings)
 
 ### 1. Admin Panel Login
 - [Admin panel login issues](login/admin-panel-login-trouble.md)
