@@ -17,4 +17,4 @@ and instead only cover commonly confused parts of the platform.
 - [Item checkout and return](study-materials/item-checkout_and_return.md)
 
 ### 3. Mobile App Settings
-- [GPS Data Collection](#GPS-Data-Collection)
+- [GPS Data Collection](#gps-data-collection)
