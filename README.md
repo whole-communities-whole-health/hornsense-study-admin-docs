@@ -1,20 +1,26 @@
 # Hornsense Platform Usage 
 This documentation is for research study admins who use the Hornsense platform
 to track participants in a research study. These instructions are not comprehensive
-and instead only cover commonly confused parts of the platform.
+and instead only cover regularly used parts of the platform.
 
 ## Table of Contents
-1. [Admin Panel Login](#1-admin-panel-login)
-2. [Admin Panel Materials](#2-admin-panel-materials)
-3. [Mobile App Settings](#3-mobile-app-settings)
+This is organized into two main sections:
+1. [Admin Panel](#1-admin-panel)
+2. [Mobile App](#2-mobile-app)
 
-### 1. Admin Panel Login
-- [Admin panel login issues](login/admin-panel-login-trouble.md)
-- [New admin user setup](login/new-admin-panel-user-setup.md)
-- [Troubleshooting](login/troubleshooting.md)
+### 1. Admin Panel
+- Onboarding
+    - [Admin panel login issues](login/admin-panel-login-trouble.md)
+    - [Admin panel troubleshooting](login/troubleshooting.md)
+    - [New admin user setup](login/new-admin-panel-user-setup.md)
 
-### 2. Admin Panel Materials
-- [Item checkout and return](study-materials/item-checkout_and_return.md)
+- Materials
+    - [Item checkout and return](study-materials/item-checkout_and_return.md)
 
-### 3. Mobile App Settings
-- [GPS Data Collection](mobile-app/gps-data-collection.md)
+- Notifications
+    - to add
+
+### 2. Mobile App
+- GPS Data Collection
+    - [Required phone settings](mobile-app/gps-data-collection.md)
+
