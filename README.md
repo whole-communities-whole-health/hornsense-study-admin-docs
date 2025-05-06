@@ -1,7 +1,7 @@
 # Hornsense Platform Usage 
 This documentation is for research study admins who use the Hornsense platform
 to track participants in a research study. These instructions are not comprehensive
-and instead only cover regularly used parts of the platform.
+and instead only cover regularly confused parts of the platform.
 
 ## Table of Contents
 This is organized into two main sections:
@@ -21,6 +21,6 @@ This is organized into two main sections:
     - to add
 
 ### 2. Mobile App
-- GPS Data Collection
+- Background GPS Collection
     - [Required phone settings](mobile-app/gps-data-collection.md)
 
