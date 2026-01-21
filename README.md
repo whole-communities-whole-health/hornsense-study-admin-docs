@@ -3,6 +3,8 @@ This documentation is for study research coordinators who use the Hornsense plat
 to track participants in research studies. These instructions are not comprehensive
 and instead only cover regularly confused parts of the platform.
 
+**Research coordinators should feel free to edit these pages as needed.**
+
 ## Table of Contents
 This is organized into two main sections:
 1. [Admin Panel](#1-admin-panel)
