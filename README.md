@@ -16,10 +16,9 @@ This is organized into two main sections:
     - [Admin panel troubleshooting](login/troubleshooting.md)
     - [New admin user setup](login/new-admin-panel-user-setup.md)
 
-- Materials
+- Study Materials
     - [Item checkout and return](study-materials/item-checkout_and_return.md)
 
 ### 2. Mobile App
-- Background GPS Collection
-    - [Required phone settings](mobile-app/gps-data-collection.md)
-
+- Required phone settings
+    - [Required phone settings](mobile-app/required-location-settings.md)

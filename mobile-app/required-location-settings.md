@@ -1,18 +1,25 @@
-# GPS Data collection
+# Required phone settings 
 These are necessary settings for the mobile devices of enrolled participants who 
-opted into location sharing. **Regardless of phone model or OS, the participant** 
-**must be signed into the mobile app, and must keep the app open in the background** 
-**on the phone.**
+opted into location sharing (everyone). **Regardless of phone model or OS, the**
+**participant must be signed into the mobile app, and must keep the app open in** 
+**the background on the phone.**
+
+## iOS Devices
+The participant must be signed into Hornsense, and must keep the app open in the 
+background (don't close it).
+
+### In Settings app
+- Privacy & Security (or just Privacy) > Location services > Hornsense > `Location permission = always`. 
+Also allow precise location (toggle on).  After enabling this setting you must 
+also click "ok" on the message, "'Hornsense' would like to access your motion and 
+fitness activity."
+
+- General > Background App Refresh > `Allow background app refresh for Hornsense app` 
+(toggle on)
 
 ## Android Devices
 There are different required settings depending on the Anrdoid Phone model as
 indicated below.
-
-### Google Pixel
-- Battery > Background restrictions set to Unrestricted
-- Permissions > Physical Activity set to Allow
-- Permissions > Pause app activity if unused set to Disable
-- Settings > Location set to ON, select Allow all the time, and enable Use precise location
 
 ### Samsung Galaxy A15
 - Settings > Apps > Hornsense > Advanced (or Usage) > Battery > Background restrictions 
@@ -27,8 +34,9 @@ to `Unrestricted`.
 on the pop up message that says, "For a better experience your device will need 
 to use Location Accuracy."
 
-## iOS Devices
-- Settings > Privacy > Location services > Hornsense > `Location permission = always`. 
-Also allow precise location.  After enabling this setting you must also click "ok" 
-on the message, "'Hornsense' would like to access your motion and fitness activity."
--  Settings > General > Background App Refresh > `Allow background app refresh for Hornsense app`
+### Google Pixel
+- Battery > Background restrictions set to Unrestricted
+- Permissions > Physical Activity set to Allow
+- Permissions > Pause app activity if unused set to Disable
+- Settings > Location set to ON, select Allow all the time, and enable Use precise location
+
