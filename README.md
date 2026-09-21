@@ -1,7 +1,8 @@
 # Hornsense Platform Usage 
-This documentation is for study research coordinators who use the Hornsense platform
-to track participants in research studies. These instructions are not comprehensive
-and instead only cover regularly confused parts of the platform.
+This documentation is for study research coordinators who use the Hornsense 
+platform to track human subjects and study material records in research 
+studies. These instructions are not comprehensive and instead only cover 
+regularly confused parts of the platform.
 
 **Research coordinators should feel free to edit these pages as needed.**
 
